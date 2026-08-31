@@ -148,7 +148,7 @@
       <div class="course-desc">
         Become industry-ready with Machine Learning, Python, Deep Learning, NLP, and real-time data projects.
       </div>
-      <a href="#" class="btn">Click Enroll Now</a>
+      <a href="#" class="btn">Enroll Now</a>
     </div>
   </div>
 
